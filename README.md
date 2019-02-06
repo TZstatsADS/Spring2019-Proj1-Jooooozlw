@@ -1,28 +1,11 @@
-# Applied Data Science @ Columbia
-## Spring 2019
-## Project 1: What made you happy today?
+# Applied-Data-Science
 
-![image](figs/title.jpeg)
+This is the folder of course Applied Data Science project1.
 
-### [Project Description](doc/Proj1_desc.md)
-This is the first and only *individual* (as opposed to *team*) this semester. 
+There are 3 files named"project1", which are html, pdf and rmd versions of project1.
 
-Term: Spring 2019
+The jpg file called "happy" is a picture used at the beginning of the report. 
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
+The csv file called "processed_moment_new" is the file used for data analysis.
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
-
-```
-proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
-```
-
-Please see each subfolder for a README file.
